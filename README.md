@@ -1,4 +1,4 @@
--------------------------------------------- JDM Showcase Website ----------------------------------------------------
+---------------------------------------------------- JDM Showcase Website ---------------------------------------------------------
 
 This JDM (Japanese Domestic Market) Cars Showcase Website is designed to highlight the beauty, power, and legacy of Japanese performance cars while providing a seamless user experience for enthusiasts and potential buyers. It includes sections for exploring iconic JDM vehicles, reading testimonials from car lovers, and contacting the site for inquiries.
 
